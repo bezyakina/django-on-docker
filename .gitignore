@@ -4,3 +4,8 @@ __pycache
 .env.dev
 .env.prod
 .env.prod.db
+.idea
+env
+app/db.sqlite3
+app/mediafiles/*
+!app/mediafiles/.gitkeep
